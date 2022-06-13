@@ -1,9 +1,0 @@
-{
-  "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/b.json",
-  "type": "AnnotationPage",
-  "label": "B",
-  "items": [
-
-  ]
-}
