@@ -1,0 +1,92 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/notes.json",
+  "type": "AnnotationPage",
+  "label": "notes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ok Lets start",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/notes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "All buried and all their names ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/notes-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "at home. In fact Joe's grand mother was midwife",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/notes-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There was a Ukrainian church",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1832"
+        }
+      }
+    }
+  ]
+}
