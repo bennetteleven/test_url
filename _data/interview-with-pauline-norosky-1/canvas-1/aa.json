@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/aa.json",
+  "type": "AnnotationPage",
+  "label": "AA",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas/aa-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "All buried and all their names ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://bennetteleven.github.io/test_url/interview-with-pauline-norosky-1/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "180.0"
+        }
+      }
+    }
+  ]
+}
